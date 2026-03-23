@@ -36,5 +36,13 @@ Academic project focused on:
 - Implementing algorithms and mathematical concepts
 - User interaction via console
 
+## How to Run
+
+1. Compile the program:
+   g++ main.cpp -o program
+
+2. Run:
+   ./program
+
 ## Author
 Nicolás Navarrete Cárdenas
